@@ -12,7 +12,7 @@ This is the backend for a contact management application. It provides APIs for m
 ## Setup Instructions
 
 1. **Clone the repository:**
-         git clone [https://github.com/surendar-05/Contact_Management.git] (https://github.com/surendar-05/Contact_Management.git)
+         git clone [https://github.com/surendar-05/Contact_Management.git]
 
 2. **Install dependencies:**
        cd contact-management-backend
