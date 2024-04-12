@@ -22,8 +22,8 @@ This is the backend for a contact management application. It provides APIs for m
 
    Create a `.env` file in the root directory and add the following variables:
         PORT=3000
-        MONGODB_URI=<your-mongodb-uri>
-4. **Start the server:**
+        MONGODB_URI=<your-mongodb-url>
+5. **Start the server:**
          npm start
 
 ## Testing APIs
